@@ -1,6 +1,6 @@
 ## Olá! Eu me chamo Gustavo Mendes 👋
 
-<p align="center">I ❤️ solve great challenges using tech. <br> 
+<p align="center">Effort brings us closer to our dreams. <br> 
  
  &nbsp;
  &nbsp;
@@ -43,10 +43,10 @@
 ## Contacts:
 
 <div> 
-<a href="https://www.instagram.com/gustavormendess" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+<a href="https://www.instagram.com/gmendes_dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 <a href = "mailto:contato.gustavormendess@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/gustavormendess/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
+<a href="https://www.linkedin.com/in/gustavormendess" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 </div>&nbsp;&nbsp;
  
 
