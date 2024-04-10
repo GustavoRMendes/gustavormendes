@@ -1,6 +1,7 @@
 ## Olá! Eu me chamo Gustavo Mendes 👋
 
-<p align="center">Effort brings us closer to our dreams. <br> 
+<p align="left" >
+Olá, sou Gustavo, um apaixonado do desenvolvimento e tecnologia como Desenvolvedor Full Stack. Sou fascinado por resolver problemas e ajudar pessoas, principalmente utilizando a tecnologia. Atualmente, estou cursando Sistemas de Informação. Fora do ambiente acadêmico, <br>faço cursos voltado para Programação Full-Stack. Estou animado em continuar minha jornada na área de tecnologia , em buscar novas oportunidades que me permitam crescer profissionalmente e fazer a diferença na vida das pessoas.<br> 
  
  &nbsp;
  &nbsp;
