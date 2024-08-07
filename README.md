@@ -1,5 +1,5 @@
 ## Olá! Me chamo Gustavo Mendes 👋
- <p> Sou estudante de Sistemas de Informação na faculdade UNISAPIENS, atualmente estou cursando o 3º período. Apaixonado por programação, almejo trabalhar na área por vários anos e construir uma carreira de sucesso. Eu sempre gostei de ajudar as pessoas e resolver problemas, principalmente usando a tecnologia. Fora da faculdade faço cursos voltado para formação Full Stack, com os cursos da Origamid e OneBitCode para me auxiliar nessa trajetória. Sou daqueles que acreditam que o esforço vence o talento, então com muita disciplina e dedicação vou atingir todos os meus objetivos.</p>
+ <p> Sou estudante de Sistemas de Informação na faculdade UNISAPIENS, atualmente estou cursando o 3º período. Apaixonado por programação, almejo trabalhar na área e construir uma carreira de sucesso. Eu sempre gostei de ajudar as pessoas e resolver problemas, principalmente usando a tecnologia. Fora da faculdade faço cursos voltado para formação Full Stack, com os cursos da Origamid e OneBitCode para me auxiliar nessa trajetória. Sou daqueles que acreditam que o esforço vence o talento, então com muita disciplina e dedicação vou atingir todos os meus objetivos.</p>
  
  &nbsp;
 
