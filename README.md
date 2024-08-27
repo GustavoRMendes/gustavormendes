@@ -1,6 +1,9 @@
 ## Olá! Me chamo Gustavo Mendes 👋
- <p> Sou estudante de Sistemas de Informação na faculdade UNISAPIENS, atualmente estou cursando o 3º período. Apaixonado por programação, almejo trabalhar na área e construir uma carreira de sucesso. Eu sempre gostei de ajudar as pessoas e resolver problemas, principalmente usando a tecnologia. Fora da faculdade faço cursos voltado para formação Full Stack, com os cursos da Origamid e OneBitCode para me auxiliar nessa trajetória. Sou daqueles que acreditam que o esforço vence o talento, então com muita disciplina e dedicação vou atingir todos os meus objetivos.</p>
- 
+ <p> Olá👋🏻! Sejam bem-vindos. Me chamo Gustavo Mendes e atualmente estou cursando Sistemas de Informação na faculdade UNISAPIENS. Fora do ambiente acadêmico, realizo estudos voltado para programação, com cursos da ORIGAMID e ONEBITCODE para me auxiliar.
+ </p>
+<p>Sempre gostei de resolver problemas e ajudar as pessoas, principalmente com tecnologia. Em 2023 comecei a me interessar por programação, assistindo vários vídeos de algoritmos do Gustavo Guanabara. Pesquisei mais afundo e assim acabei descobrindo o HTML, CSS e JavaScript. Depois de um tempo acabei decidindo cursar Sistemas de Informação.
+ </p> 
+ <p>Estou focado e determinado em expandir meus conhecimentos com Typescript, React e Next. Estou exercendo meus projetos pessoais para melhor fixação e aprendizado para me tornar um especialista na área. </p>
  &nbsp;
 
 <div align="center">
@@ -19,10 +22,8 @@
  <img align="center" alt="html-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="css-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="javascript-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="git-icon" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
  <img align="center" alt="git-icon" height="30" width="40" src="https://www.svgrepo.com/show/374144/typescript.svg">
 <img align="center" alt="git-icon" height="30" width="40" src="https://www.svgrepo.com/show/452075/node-js.svg">
-<img align="center" alt="git-icon" height="30" width="40" src="https://www.svgrepo.com/show/452234/java.svg">
   <img align="center" alt="git-icon" height="30" width="40" src="https://www.svgrepo.com/show/452092/react.svg">
  <img align="center" alt="git-icon" height="30" width="40" src="https://www.svgrepo.com/show/521299/next-16.svg">
   
