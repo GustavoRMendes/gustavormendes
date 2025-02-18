@@ -26,6 +26,7 @@
   <img align="center" alt="javascript-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  <img align="center" alt="git-icon" height="30" width="40" src="https://www.svgrepo.com/show/374144/typescript.svg">
   <img align="center" alt="git-icon" height="30" width="40" src="https://www.svgrepo.com/show/452092/react.svg">
+  <img align="center" alt="mySQL-icon" height="30" width="40" src="https://camo.githubusercontent.com/c2453c4efd99d042dbae8deb76e2937554f1f5fe3ec73c5db6013af715ee2628/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f6d7973716c2f6d7973716c2d6f726967696e616c2e737667">
   
  
 </div><br>
