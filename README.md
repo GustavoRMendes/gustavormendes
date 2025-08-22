@@ -18,8 +18,6 @@
  <img align="center" alt="html-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="css-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="javascript-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- <img align="center" alt="git-icon" height="30" width="40" src="https://www.svgrepo.com/show/374144/typescript.svg">
-  <img align="center" alt="git-icon" height="30" width="40" src="https://www.svgrepo.com/show/452092/react.svg"> 
 </div><br>
 
 ## Contacts:
