@@ -2,9 +2,13 @@
  <p> 
  👨‍💻 Desenvolvedor Full Stack
 
-🎓 Cursando Sistemas de Informação
+🎓 Graduando Sistemas de Informação
+
+🖥 Estagiando na Assembleia Legislativa de Rondônia
 
 📩 gustavormendess@gmail.com
+
+
 </p>
 
 &nbsp;
