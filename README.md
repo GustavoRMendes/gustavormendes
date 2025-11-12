@@ -1,10 +1,10 @@
 ## Olá! Me chamo Gustavo Mendes 👋
  <p> 
- 👨‍💻 Desenvolvedor Full Stack
+ 🖥 Desenvolvedor Full Stack
 
 🎓 Graduando Sistemas de Informação
 
-🖥 Estagiando na Assembleia Legislativa de Rondônia
+👨‍💼 Estagiando na Assembleia Legislativa de Rondônia
 
 📩 gustavormendess@gmail.com
 
