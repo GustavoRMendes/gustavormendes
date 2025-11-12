@@ -4,7 +4,7 @@
 
 🎓 Graduando Sistemas de Informação
 
-👨‍💼 Estagiando na Assembleia Legislativa de Rondônia
+ 👨‍💼  Estagiando na Assembleia Legislativa de Rondônia
 
 📩 gustavormendess@gmail.com
 
